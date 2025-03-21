@@ -1,6 +1,5 @@
 # PDF-Vector-Embedding-and-Retrieval
 
-# PDF Vector Embedding and Retrieval
 
 This project provides a pipeline for extracting text and metadata from PDF documents, converting the content into vector embeddings, and storing them in a FAISS database for efficient similarity-based querying. It is designed to handle large PDFs and supports embedding models from HuggingFace.
 
